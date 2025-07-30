@@ -15,4 +15,7 @@ Notes/Process:
 11. Established Connection to Github, realized I shouldve put the script in after I made the connection
 12. Copy script into Git repository, commited it via command line
 13. updated README
-14. 
+14. Some excruciating technical difficulties ensued, Many of which made me feel stupid 
+Had to use an access key for authentication, then use "git pull" and "git merge" to obtain and update the changes to README.md
+After authenticating then updating, used "git push origin main" to upload the script to github.com.
+Began quality inspection
