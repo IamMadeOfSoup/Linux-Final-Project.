@@ -12,4 +12,7 @@ Notes/Process:
 8. Im hilarious!
 9. After finishing, made it executable with "chmod u+x linuxfinalproject.sh"
 10. Took respective screenshots, made "Linux Project Screenshots" folder
-11. 
+11. Established Connection to Github, realized I shouldve put the script in after I made the connection
+12. Copy script into Git repository, commited it via command line
+13. updated README
+14. 
