@@ -1,5 +1,5 @@
 # Linux-Final-Project.
-A simple script couting from 1 to 50. 
+A simple script couting from 1 to 50, along with notes and the general process to upload to git hub. 
 
 Notes/Process:
 1. Made a Github repository, named it "Linux Final Project"
