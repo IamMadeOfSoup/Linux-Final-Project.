@@ -16,6 +16,6 @@ Notes/Process:
 12. Copy script into Git repository, commited it via command line
 13. updated README
 14. Some excruciating technical difficulties ensued, Many of which made me feel stupid 
-Had to use an access key for authentication, then use "git pull" and "git merge" to obtain and update the changes to README.md
-After authenticating then updating, used "git push origin main" to upload the script to github.com.
-Began quality inspection
+15. Had to use an access key for authentication, then use "git pull" and "git merge" to obtain and update the changes to README.md
+16. After authenticating then updating, used "git push origin main" to upload the script to github.com.
+17. Began quality inspection
