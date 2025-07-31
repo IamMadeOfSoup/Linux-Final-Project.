@@ -3,7 +3,7 @@ A simple script couting from 1 to 50, along with notes and the general process t
 
 Notes/Process:
 1. Made a Github repository, named it "Linux Final Project"
-2. Did research on shell bash scripting, got some refereshers/learned something new. Figured out the "while" command. 
+2. Did research on shell bash scripting, got some refereshers/learned something new. Figured out the "while" command via YouTube video. 
 3. Began trial and error on the script, found out I organized it wrong which caused an error
 4. reevaluated life choices
 5. Fixed script, now it counts from 1 to 50!
@@ -19,3 +19,4 @@ Notes/Process:
 15. Had to use an access key for authentication, then use "git pull" and "git merge" to obtain and update the changes to README.md
 16. After authenticating then updating, used "git push origin main" to upload the script to github.com.
 17. Began quality inspection
+18. Edited README.md for the final time
