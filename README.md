@@ -14,9 +14,11 @@ Notes/Process:
 10. Took respective screenshots, made "Linux Project Screenshots" folder
 11. Established Connection to Github, realized I shouldve put the script in after I made the connection
 12. Copy script into Git repository, commited it via command line
-13. updated README
-14. Some excruciating technical difficulties ensued, Many of which made me feel stupid 
-15. Had to use an access key for authentication, then use "git pull" and "git merge" to obtain and update the changes to README.md
-16. After authenticating then updating, used "git push origin main" to upload the script to github.com.
-17. Began quality inspection
-18. Edited README.md for the final time
+13. Had to input an email/name to activate the commitment
+14. Conuslted youTube for further instruction
+15. updated README
+16. Some excruciating technical difficulties ensued, Many of which made me feel stupid 
+17. Had to use an access key acquired through github.com for authentication, changed the host to said key, then used "git pull" and "git merge" to obtain and update the changes to README.md
+18. After authenticating then updating, used "git push origin main" to upload the script to github.com.
+19. Began quality inspection
+20. Edited README.md for the final time
